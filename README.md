@@ -4,7 +4,7 @@
 
 # Getting Started
 ### Steps
-#### in _"Create_ASR_FPGrowth.py"_
+#### In _"Create_ASR_FPGrowth.py"_
 1. Setup your input path e.g. 
   *     input_file_name   (dataset file name)
   *     input_file_folder   (folder containing the datasets)
