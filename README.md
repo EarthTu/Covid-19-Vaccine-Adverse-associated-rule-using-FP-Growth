@@ -13,5 +13,5 @@
 
 2. Set minimum support and minimum confident value
   * default is 0.1% of all transaction (0.001)
-  * 
+
 3. Run 
