@@ -12,6 +12,6 @@
 > _**Note:** this version of code only works for CSV dataset input file. If you want to use it for other type of file, you can modify the code as you need._
 
 2. Set minimum support and minimum confident value 
-  * default is 0.1% of all transaction (0.001)
+   * default is 0.1% of all transaction (0.001)
 
 3. Run
