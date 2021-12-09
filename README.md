@@ -3,7 +3,7 @@
 #### For dataset template, please use some dataset in .... as an example.
 
 # Getting Started
-#### Step
+### Steps
 1. Setup your input path e.g.
   * input_file_name
   * input_file_folder
