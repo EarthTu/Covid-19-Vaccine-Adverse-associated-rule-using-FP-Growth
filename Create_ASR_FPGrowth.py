@@ -5,7 +5,7 @@ import os
 #### PLEAS READ "README.md" before using ####
 #############################################
 
-# Set up path
+# Set path
 input_file_name = r'____Input file name (transaction file)____' # for example "A.csv" insert only "A". (csv file only)
 input_file_folder = r'____Input folder____' # path to your input folder (where your input file is).
 output_file_name = 'rules_' + input_file_name # you can modify this.
@@ -15,6 +15,8 @@ output_file_folder = r'___Output folder___' # path to your output folder.
 minimum_support_rate = 0.001 # 0.1%
 minimum_confident = 0.8 # 80%
 
+
+########################################### MAIN #########################################################################
 
 input_file_path = os.path.join(input_file_folder,input_file_name + '.csv')
 output_file_path = os.path.join(output_file_folder,output_file_name)
