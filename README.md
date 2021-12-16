@@ -11,7 +11,9 @@
   *     output_file_name   (generated association rule file name [as you want]. Default is "rules_ + input_file_name")
   *     output_file_folder   (folder containing generated association rule file name [as you want])
 > _**Note:** 1. This version of code only works for CSV dataset input file. If you need to use it for other file types, you can modify the code as you need.
-             2. See an example structure of sample of input files (transaction file) in folder "data_sample" ._
+             
+             2. See an example structure of sample of input files (transaction file) in folder "data_sample"._
+             
 2. Set minimum support and minimum confident value 
    *     minimum support: default is 0.1% of all transaction (0.001)
    *     minimum confident: default is 80%  (0.8)
